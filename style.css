@@ -59,3 +59,10 @@ h2 {
     background-color: green;
 }
 
+.quote {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    letter-spacing: 2px;
+    opacity: .8;
+}
